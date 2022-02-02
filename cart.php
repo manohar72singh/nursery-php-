@@ -33,7 +33,7 @@
 						{ 
 							?>
 							<tr>
-								<td><img src="images/images.jpeg" style="width: 100px"></td>
+								<td><img src="images/images.png" style="width: 100px"></td>
 								<td><?php echo $data[4]?></td>
 								<td><?php echo $data[2]?></td>
 								<td>&#8369 <?php echo $data[1]?></td>

@@ -35,11 +35,11 @@
 		<div class="card-mb-3">
 			<div class="card-body">
 				
-					<center><img src="images/images.jpeg" style="width: 100px">
+					<center><img src="images/images.png" style="width: 100px">
 					<h4 class="text-info" name="name"><?php echo $total['name']; ?></h4>	
 					<h5 class="text-info" name="qty">Available Qty:(<?php echo $total["quantity"]; ?>)</h5>
 					<h4 class="text-danger" name="price">&#8369 <?php echo $total["price"]; ?>.00</h4>
-					<input class="form-control" type="number" min="0" placeholder="Quantity" name="count" value="1">
+					<input class="form-control text-center" type="number" min="0" placeholder="Quantity" name="count" value="1">
 					<?php 
 					if (isset($_SESSION['email'])) 
 					{

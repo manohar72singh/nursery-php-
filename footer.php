@@ -49,20 +49,17 @@
         <ul class="list-unstyled">
           <li>
             <p>
-              <i class="fas fa-home mr-3"></i>CUSB Gaya</p>
+              <i class="fas fa-home mr-3"></i>Gaya(Bihar)</p>
           </li>
           <li>
             <p>
-              <i class="fas fa-envelope mr-3"></i> anky@bihari.com</p>
+              <i class="fas fa-envelope mr-3"></i> manohar72singh@gmail.com</p>
           </li>
           <li>
             <p>
-              <i class="fas fa-phone mr-3"></i>6202225205 </p>
+              <i class="fas fa-phone mr-3"></i>9771157571 </p>
           </li>
-          <li>
-            <p>
-              <i class="fas fa-print mr-3"></i>*****57571</p>
-          </li>
+          
         </ul>
 
       </div>
@@ -76,7 +73,7 @@
         <h5 class="font-weight-bold text-uppercase mb-4">Follow Us</h5>
 
         <!-- Facebook -->
-        <a type="button" class="btn-floating btn-fb" href="https://www.facebook.com/">
+        <a type="button" class="btn-floating btn-fb" href="https://www.facebook.com/manohar72singh">
           <i class="fab fa-facebook-f"></i>
         </a>
         <!-- Twitter -->
@@ -88,7 +85,7 @@
           <i class="fab fa-google-plus-g"></i>
         </a>
         <!-- instagram -->
-        <a type="button" class="btn-floating btn-in" href="https://www.instagram.com/">
+        <a type="button" class="btn-floating btn-in" href="https://www.instagram.com/manoharkumarsingh8900">
           <i class="fab fa-instagram"></i>
         </a>
       </div>
